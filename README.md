@@ -1,2 +1,4 @@
 # VBAssert
-Simple VB assert "library" - helpful for validating your VB functions
+Simple VB fluent assert "library" - helpful for validating your VB functions
+
+Please see Assert_asserts.vbs for usage exmamples.
